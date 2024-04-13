@@ -1,0 +1,10 @@
+numpy
+pandas
+streamlit
+openai==0.28
+python-dotenv
+pyodbc
+matplotlib
+plotly
+dash
+importlib
